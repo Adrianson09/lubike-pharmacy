@@ -1,7 +1,7 @@
 import type {NextPage} from 'next';
 import { Typography } from '@mui/material';
 
-import { ShopLayout } from "../../Components/layouts";
+import { ShopLayout } from "../Components/layouts";
 
 export default function Home() {
   return (
