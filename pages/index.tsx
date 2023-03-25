@@ -21,6 +21,7 @@ export default function Home() {
                     <CardMedia
                     component='img'
                     image={`products/${ product.images[0]}`}
+                    alt={product.title}
                     />
                   </CardActionArea>
                 </Card>

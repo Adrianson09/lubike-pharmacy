@@ -1,6 +1,6 @@
 import { FC,PropsWithChildren } from 'react'
 import Head from "next/head"
-import { Navbar } from '../ui';
+import { Navbar, SideMenu } from '../ui';
 
 
 interface Props  extends PropsWithChildren {
@@ -34,7 +34,8 @@ export const ShopLayout:FC<Props> = ({ children, title, pageDescription, imageFu
         <nav>
             <Navbar/>
         </nav>
-            {/* TODO: SideBar */}
+            
+            <SideMenu/>
         <main style={{
             margin: '80px auto',
             maxWidth: '1440px',
