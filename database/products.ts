@@ -24,7 +24,7 @@ interface SeedData {
 export const initialData: SeedData = {
     products: [
         {
-            description: "Introducing the Tesla Chill Collection. The Men’s Chill Crew Neck Sweatshirt has a premium, heavyweight exterior and soft fleece interior for comfort in any season. The sweatshirt features a subtle thermoplastic polyurethane T logo on the chest and a Tesla wordmark below the back collar. Made from 60% cotton and 40% recycled polyester.",
+            description: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi sed odio quae quibusdam illo, aliquid neque possimus velit, debitis, aspernatur totam praesentium. Veritatis accusamus repellat numquam qui neque ullam sit?Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi sed odio quae quibusdam illo, aliquid neque possimus velit, debitis, aspernatur totam praesentium. Veritatis accusamus repellat numquam qui neque ullam sit?Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi sed odio quae quibusdam illo, aliquid neque possimus velit, debitis, aspernatur totam praesentium. Veritatis accusamus repellat numquam qui neque ullam sit",
             images: [
                 '1740176-00-A_0_2000.jpg',
                 '1740176-00-A_1.jpg',
@@ -35,11 +35,12 @@ export const initialData: SeedData = {
             slug: "mens_chill_crew_neck_sweatshirt",
             type: 'shirts',
             tags: ['sweatshirt'],
-            title: "Men’s Chill Crew Neck Sweatshirt",
+            title: "Ejemplo 1",
             gender: 'men'
         },
+        
         {
-            description: "The Men's Quilted Shirt Jacket features a uniquely fit, quilted design for warmth and mobility in cold weather seasons. With an overall street-smart aesthetic, the jacket features subtle silicone injected Tesla logos below the back collar and on the right sleeve, as well as custom matte metal zipper pulls. Made from 87% nylon and 13% polyurethane.",
+            description: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi sed odio quae quibusdam illo, aliquid neque possimus velit, debitis, aspernatur totam praesentium. Veritatis accusamus repellat numquam qui neque ullam sit?Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi sed odio quae quibusdam illo, aliquid neque possimus velit, debitis, aspernatur totam praesentium. Veritatis accusamus repellat numquam qui neque ullam sit?Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi sed odio quae quibusdam illo, aliquid neque possimus velit, debitis, aspernatur totam praesentium. Veritatis accusamus repellat numquam qui neque ullam sit?",
             images: [
                 '1740507-00-A_0_2000.jpg',
                 '1740507-00-A_1.jpg',
